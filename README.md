@@ -3,9 +3,9 @@
 Hi! I'm Joaquin, a 24-year-old developer from Uruguay building modern web applications.
 
 **Tech Stack:**
-- **Frontend:** JavaScript, Vue.js, HTML/CSS, Tailwind CSS
+- **Frontend:** JavaScript, TypeScript, Vue.js, HTML/CSS, Tailwind CSS
 - **Backend:** Node.js, Express, MongoDB
-- **Tools:** Git, GitHub, TypeScript
+- **Tools:** Git, GitHub
 
 **🐰 Check out my latest project:** [Rabbit E-commerce](https://rabbit-ecommerce-liart.vercel.app/)
 A fully functional e-commerce platform featuring secure authentication, dynamic shopping cart, and admin dashboard. Built to demonstrate end-to-end development skills.
